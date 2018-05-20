@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{AA739262-0670-45E5-BC19-E7F94ECD0D7C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inference\Program.cs">
+    <Files>
+      <File FileName="Inference\TT.cs" Line="11" Column="13" />
+      <File FileName="Inference\FC.cs" Line="11" Column="38" />
+      <File FileName="Inference\BC.cs" Line="14" Column="3" />
+      <File FileName="Inference\Program.cs" Line="77" Column="27" />
+      <File FileName="Inference\ReadTextFile.cs" Line="23" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Inference PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

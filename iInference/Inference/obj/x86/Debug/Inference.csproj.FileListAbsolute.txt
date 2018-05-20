@@ -1,0 +1,12 @@
+C:\Users\Archie\Documents\Projects\Inference\Inference\bin\Debug\Inference.exe
+C:\Users\Archie\Documents\Projects\Inference\Inference\bin\Debug\Inference.pdb
+C:\Users\Archie\Documents\Projects\Inference\Inference\obj\x86\Debug\Inference.exe
+C:\Users\Archie\Documents\Projects\Inference\Inference\obj\x86\Debug\Inference.pdb
+C:\Users\Archie\Desktop\Inference\Inference\obj\x86\Debug\Inference.exe
+C:\Users\Archie\Desktop\Inference\Inference\obj\x86\Debug\Inference.pdb
+C:\Users\Archie\Desktop\iInference\Inference\obj\x86\Debug\Inference.exe
+C:\Users\Archie\Desktop\iInference\Inference\obj\x86\Debug\Inference.pdb
+C:\Users\Archie\Desktop\iInference\Inference\bin\Debug\Inference.exe
+C:\Users\Archie\Desktop\iInference\Inference\bin\Debug\Inference.pdb
+C:\Users\Archie\Desktop\iInference\Inference\obj\x86\Debug\Inference.csprojResolveAssemblyReference.cache
+C:\Users\Archie\Desktop\iInference\Inference\obj\x86\Debug\Inference.csproj.CoreCompileInputs.cache
